@@ -1,6 +1,6 @@
 # Hey, there!
 
-My name is Marina Melaré and I am a front end developer. I'm all the way from Brazil, and currently work at BOSCH. You can find me on [Twitter](https://twitter.com/marinamelare), [Instagram](https://instagram.com/melare.nina), [Linkedin](https://www.linkedin.com/in/marina-aguiar-melar%C3%A9-05433016b/) or [Tiktok](https://www.tiktok.com/@melare.nina?is_copy_url=1&is_from_webapp=v1).
+My name is Marina Melaré and I am a front end developer. I'm all the way from Brazil, and currently work at Grupo SBF. You can find me on [Twitter](https://twitter.com/marinamelare), [Instagram](https://instagram.com/melare.nina), [Linkedin](https://www.linkedin.com/in/marina-aguiar-melar%C3%A9-05433016b/) or [Tiktok](https://www.tiktok.com/@melare.nina?is_copy_url=1&is_from_webapp=v1).
 
 ## 🎶 Music, baby!
 
