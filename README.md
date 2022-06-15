@@ -1,4 +1,4 @@
-# Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 My name is Marina Melaré and I am a front end developer. I'm all the way from Brazil, and currently work at BOSCH. You can find me on [Twitter](https://twitter.com/marinamelare), [Instagram](https://instagram.com/melare.nina), [Linkedin](https://www.linkedin.com/in/marina-aguiar-melar%C3%A9-05433016b/) or [Tiktok](https://www.tiktok.com/@melare.nina?is_copy_url=1&is_from_webapp=v1).
 
